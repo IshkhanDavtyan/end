@@ -1,0 +1,1 @@
+{"city":{"capital":{"type":"String","required":"true","payman":"value!=='Erevan'","errorMessage":"Your capital is Erevan"},"city":{"type":"String","required":"true","payman":"value!=='Armavir'","errorMessage":"You born in Armavir"}}}
